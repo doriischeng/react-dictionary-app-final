@@ -8,6 +8,9 @@ export default function App() {
       <header className="App-header">
         <Dictionary />
       </header>
+      <footer className="text-center mt-5">
+        Code by Doris Cheng
+      </footer>
     </div>
   );
 }

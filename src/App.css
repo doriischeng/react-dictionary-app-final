@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(255, 244, 235);
+  margin: 0 100px;
+}
+
+.App footer {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.App footer a {
+  color: brown;
+}

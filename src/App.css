@@ -3,6 +3,10 @@ body {
   margin: 0 100px;
 }
 
+.App .container {
+  max-width: 900px;
+}
+
 .App footer {
   text-align: center;
   font-size: 14px;
